@@ -1,3 +1,26 @@
+1. Answer:
+   JSX = JavaScript XML, is a syntax extension for JavaScript that looks a lot like HTML but is used in React to describe the UI.
+2. Answer:
+   Props are data passed from a parent component to a child component and States are data managed         within a component. Props are immutable but States are mutable.
+3. Answer:
+   useState is a React Hook that allows to add state to a functional component. useState is like          giving functional component its own memory box where we can store a value, change it, and React        automatically updates the UI.
+4. Answer:
+   State can be shared between components by **lifting it up** to their closest common parent and         passing it as **props**, or by using **React Context** for global access.
+5. Answer:
+   In React, events are handled using **camelCase props** like `onClick` with a **function** as the       handler. React uses **synthetic events** to manage and normalize event behavior across browsers.
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
