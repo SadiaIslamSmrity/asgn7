@@ -1,0 +1,122 @@
+[
+  {
+    "ticket": 1001,
+    "priority": "HIGH",
+    "name": "Sohidul Islam",
+    "issue": "Login Issues - Can't Access Account",
+    "message": "Customer is unable to log in to their account. They've tried resetting their password multiple times but still can't access.",
+    "date": "1/15/2025"
+  },
+  {
+    "ticket": 1002,
+    "priority": "MEDIUM",
+    "name": "Nargish Khanom",
+    "issue": "Payment Failure",
+    "message": "Customer's credit card keeps getting declined during checkout despite funds being available.",
+    "date": "1/16/2025"
+  },
+  {
+    "ticket": 1003,
+    "priority": "HIGH",
+    "name": "Shaherin Islam",
+    "issue": "Account Locked",
+    "message": "Customer's account was locked after multiple failed login attempts. They need immediate access restored.",
+    "date": "1/17/2025"
+  },
+  {
+    "ticket": 1004,
+    "priority": "LOW",
+    "name": "Fahad Ahmed",
+    "issue": "Feature Request",
+    "message": "Customer requests a dark mode option for better usability during night time.",
+    "date": "1/18/2025"
+  },
+  {
+    "ticket": 1005,
+    "priority": "MEDIUM",
+    "name": "Mymuna Tabassum",
+    "issue": "Order Not Received",
+    "message": "Customer placed an order two weeks ago but has not received any shipping updates.",
+    "date": "1/19/2025"
+  },
+  {
+    "ticket": 1006,
+    "priority": "HIGH",
+    "name": "Sajidul Islam",
+    "issue": "Billing Error",
+    "message": "Customer was charged twice for the same subscription renewal.",
+    "date": "1/20/2025"
+  },
+  {
+    "ticket": 1007,
+    "priority": "MEDIUM",
+    "name": "Sadia Islam Smrity",
+    "issue": "App Crashes",
+    "message": "Customer reports that the mobile app crashes immediately after launching.",
+    "date": "1/21/2025"
+  },
+  {
+    "ticket": 1008,
+    "priority": "LOW",
+    "name": "Bilkis Khanom",
+    "issue": "Profile Picture Upload Error",
+    "message": "Customer cannot upload a new profile picture. File upload fails with unknown error.",
+    "date": "1/22/2025"
+  },
+  {
+    "ticket": 1009,
+    "priority": "HIGH",
+    "name": "Sajida Islam",
+    "issue": "Password Reset Email Not Received",
+    "message": "Customer requested a password reset but never received the email, even after checking spam.",
+    "date": "1/23/2025"
+  },
+  {
+    "ticket": 1010,
+    "priority": "MEDIUM",
+    "name": "Nurunnahar Begum",
+    "issue": "Slow Website Performance",
+    "message": "Customer complains that the website takes too long to load on both desktop and mobile.",
+    "date": "1/24/2025"
+  },
+  {
+    "ticket": 1011,
+    "priority": "HIGH",
+    "name": "Nasima Khanom",
+    "issue": "Unauthorized Transaction",
+    "message": "Customer noticed a suspicious transaction made from their account without authorization.",
+    "date": "1/25/2025"
+  },
+  {
+    "ticket": 1012,
+    "priority": "LOW",
+    "name": "Sharmin Jahan",
+    "issue": "Notification Settings Not Saving",
+    "message": "Customer changes their notification settings, but they reset back after logging out.",
+    "date": "1/26/2025"
+  },
+  {
+    "ticket": 1013,
+    "priority": "MEDIUM",
+    "name": "Apurbo Basona",
+    "issue": "Refund Not Processed",
+    "message": "Customer requested a refund a week ago but has not seen any updates.",
+    "date": "1/27/2025"
+  },
+  {
+    "ticket": 1014,
+    "priority": "HIGH",
+    "name": "Rubaiya Zaman",
+    "issue": "Two-Factor Authentication Failure",
+    "message": "Customer is unable to log in because the two-factor authentication code never arrives.",
+    "date": "1/28/2025"
+  },
+  {
+    "ticket": 1015,
+    "priority": "LOW",
+    "name": "Saiful Islam",
+    "issue": "Language Setting Missing",
+    "message": "Customer wants to switch the app to French, but the option is not available in settings.",
+    "date": "1/29/2025"
+  }
+]
